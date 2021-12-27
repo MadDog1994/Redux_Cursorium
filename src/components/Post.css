@@ -1,0 +1,52 @@
+.post-div-avatar{
+    margin: 25px 25px;
+    width: 14%;
+    height: 75px;
+    border-radius: 80px;
+}
+.post-img-photo{
+    width: 70%;
+    height: 210px;
+    border-radius: 40px;
+    margin-left: 155px;
+    margin-top: -25px;
+}
+.post-wrapper{
+    margin: 10px auto;
+    background-color: #0d1a27;
+    width: 48%;
+    border-radius: 40px;
+    height: 350px;
+}
+.post-div-wrapper{
+    display: flex;
+}
+.post-div-span{
+    color: white;
+    font-size: 15px;
+    margin: 20px 10px;
+}
+.post-span-nickname{
+    color:rgb(102, 118, 131);
+}
+.post-span-fontSize{
+    font-size: 20px;
+}
+.post-button-img{
+    width: 15px;
+    height: 15px;
+}
+.post-svg-img{
+    height: 15px;
+    width: 15px;
+}
+.post-icons-wrapper{
+    margin:5px 174px;
+    width: 65%;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.post-icons{
+    align-items: center;
+}
